@@ -1,3 +1,6 @@
+
+
+
 import cv2
 import numpy as np
 
@@ -214,7 +217,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-#"C:\Users\navee\projects\learn cv2\resources\cat.jpg"
-#"C:\Users\navee\projects\learn cv2\resources\pikachu.jpg"
-
-    
